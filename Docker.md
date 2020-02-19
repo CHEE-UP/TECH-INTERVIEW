@@ -90,8 +90,6 @@
     >
     > <https://stackoverflow.com/questions/38233345/docker-compose-link-container-of-another-docker-compose> 
 
-
-
 #### 겅부해보기
 
 <https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process>
